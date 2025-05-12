@@ -84,7 +84,7 @@ Clone the **Chat App** repository and set up locally:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/devnamdev2003/django-chat-app.git
+   git clone https://github.com/Piyush972004/CHAT-APP.git
    cd django-chat-app
    ```
 
